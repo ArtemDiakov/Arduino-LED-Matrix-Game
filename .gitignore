@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Arduino build/cache files
+/build/
+*.hex
+*.elf
+*.bin
+
+# Reports/coursework files
+*.pdf
+*.docx
+*.zip
+*.gz
