@@ -44,3 +44,13 @@ Some optional/extra features, such as pause functionality, final score display a
 
    ```bash
    git clone https://github.com/ArtemDiakov/Arduino-LED-Matrix-Game.git
+   
+2. Open ard38_cs12020.ino in the Arduino IDE.
+
+3. Connect the Arduino/LED matrix hardware used for the project.
+
+4. Compile and upload the sketch to the board.
+   
+## Notes
+
+This was an early university programming project focused on C/C++, state-based game logic, hardware interaction and real-time input/render/update behaviour.
